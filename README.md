@@ -1,7 +1,7 @@
 M.E.A.N Stack Vagrant Box 
 =========
 
-A standard M.E.A.N stack vagrant box based on Ubuntu 14.04 LTS 64 bit. It has pre-installed nginx, nodejs, npm and some other utilites libraries. 
+A standard M.E.A.N stack vagrant box based on Ubuntu 14.04 LTS 64 bit. It has pre-installed nginx, nodejs, npm and some other utilites. 
   
 
 How Download and Install Vagrant
